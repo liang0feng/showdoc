@@ -1,4 +1,8 @@
-﻿# ShowDoc
+### cosmic 
+<video
+	src="https://1251464067.vod2.myqcloud.com/9435fde3vodgzp1251464067/7f717355243791580594360284/1UFwndreM2cA.mp4"></video>
+ 
+ # ShowDoc
 
 ## [点击查看中文版教程](https://www.showdoc.com.cn/help)
 
